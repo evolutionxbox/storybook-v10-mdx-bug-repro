@@ -103,7 +103,7 @@ This bug is related to but distinct from:
 
 ## Bug Report
 
-Filed at: [Link to be added]
+Filed at: https://github.com/storybookjs/storybook/issues/33537
 
 ## Repository Structure
 
